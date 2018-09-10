@@ -1,0 +1,23 @@
+{
+  "name": "code_count",
+  "version": "1.0.0",
+  "description": "代码统计",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Craigin/code_count.git"
+  },
+  "author": "pakison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Craigin/code_count/issues"
+  },
+  "homepage": "https://github.com/Craigin/code_count#readme",
+  "dependencies": {
+    "node-xlsx": "^0.12.1",
+    "require-dir": "^1.0.0"
+  }
+}
